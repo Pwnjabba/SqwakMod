@@ -1,0 +1,15 @@
+bin
+logs
+*.launch
+.settings
+.metadata
+.classpath
+.project
+.vscode
+build
+.gradle
+run
+setup.bat
+
+# Files from Forge MDK
+forge*changelog.txt
